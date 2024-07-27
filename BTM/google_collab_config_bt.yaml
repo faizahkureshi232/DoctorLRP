@@ -1,0 +1,10 @@
+path: '/home/BTM/data' #absolute path
+train: 'images/train' #train images (relative to 'path')
+val: 'images/test'
+#classes
+names: 
+    0: pituitry
+    1: meningioma
+    2: glioma
+    3: notumor
+

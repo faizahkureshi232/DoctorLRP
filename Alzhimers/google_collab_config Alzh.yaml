@@ -1,0 +1,10 @@
+path: '/content/gdrive/MyDrive/alzehimer_data/data'#absolute path
+train: 'images/train' #train images (relative to 'path')
+val: 'images/test'
+#classes
+names: 
+    0: MildDemented
+    1: ModerateDemented
+    2: NonDemented
+    3: SevereDemented
+    4: VeryMildDemented
